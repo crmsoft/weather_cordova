@@ -2,4 +2,4 @@
 cordova simple weather app
 enjoy and feel free of using any part of code
 
-Project buil using Jquery framework.
+Project build using Jquery framework.
